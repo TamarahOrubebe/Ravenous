@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Ravenous
+
+![Ravenous](https://github.com/TamarahOrubebe/Ravenous/blob/master/public/ravenous.png)
+
+
+## Description
+Ravenous is a react app modeled after the 'Yelp' web application, which makes use of the Yelp API to return a list of businesses near you with sort options.
+
+![Businesses](https://github.com/TamarahOrubebe/Ravenous/blob/master/public/ravenous2.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
